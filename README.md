@@ -28,7 +28,7 @@ $ python -m SimpleHTTPServer 4321
 $ open http://localhost:4321
 ```
 
-7. To build the game
+7. To build the game:
 - Edit src/main.ts, see "// 3. THE GAME"
 - DON'T edit public/main**.js**, it is automatically generated each time main**.ts** is changed
 - Refresh the localhost:4321 webpage and your changes should show up!
