@@ -1,5 +1,5 @@
 //
-// GLOBAL VARIABLES
+// 1. GLOBAL VARIABLES
 // -------------------------------------------------------
 // These variables are "global" meaning they can be used in all code
 // 
@@ -11,7 +11,7 @@ let canvas: CanvasRenderingContext2D;
 let canvasRect: { left: number, top: number, width: number, height: number };
 
 //
-// SETUP
+// 2. SETUP
 // -------------------------------------------------------
 // This code initializes the globals and registers the main game functions.
 //
@@ -66,7 +66,7 @@ function main() {
 document.addEventListener("DOMContentLoaded", () => main(), false);
 
 //
-// THE GAME
+// 3. THE GAME
 // -------------------------------------------------------
 // The "game" consists of a green box that is the "player"
 // and many red boxes that are "foes"
