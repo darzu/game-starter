@@ -3,12 +3,6 @@
         "module": "commonjs",
         "target": "es2018",
         "outDir": "public",
-    },
-    "include": [
-        "src/**/*"
-    ],
-    "exclude": [
-        "arc-src",
-        "tracer-src"
-    ]
+        "rootDir": "src"
+    }
 }
