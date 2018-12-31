@@ -2,6 +2,14 @@ Setup:
 - Install git: https://git-scm.com/download/win
 - Install typescript compiler: https://www.typescriptlang.org/#download-links
 
+Fork this repository.
+
+Clone:
+```
+cd ~/repos/
+git@github.com:YOUR_ACCOUNT_NAME/game-starter.git
+```
+
 Run continuous compilation:
 ```
 $ cd ~/repos/game-starter/
