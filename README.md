@@ -29,7 +29,7 @@ $ open http://localhost:4321
 ```
 
 7. To build the game:
-- Edit src/main.ts, see "// 3. THE GAME"
+- Edit src/main.ts
 - DON'T edit public/main**.js**, it is automatically generated each time main**.ts** is changed
 - Refresh the localhost:4321 webpage and your changes should show up!
 - If your code has an error, you'll see it in the typescript console window
