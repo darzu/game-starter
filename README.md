@@ -33,3 +33,10 @@ $ open http://localhost:4321
 - DON'T edit public/main**.js**, it is automatically generated each time main**.ts** is changed
 - Refresh the localhost:4321 webpage and your changes should show up!
 - If your code has an error, you'll see it in the typescript console window
+
+8. Save your changes:
+```
+git add --all .
+git commit -m "describe your changes here"
+git push
+```
